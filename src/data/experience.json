@@ -1,0 +1,19 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "role": "Frontend Developer",
+      "company": "Tech Company",
+      "period": "2022 - Present",
+      "description": ["Developed responsive web applications using React..."]
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "Computer Science",
+      "institution": "University Name",
+      "year": "2021"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+
+{
+  "name": "Your Name",
+  "title": "Frontend Developer",
+  "tagline": "Building beautiful, responsive web applications",
+  "photo": "/images/profile.jpg",
+  "about": "I'm a passionate developer with experience in React, JavaScript, and modern web technologies...",
+  "skills": ["React", "JavaScript", "HTML5", "CSS3", "Git"],
+  "interests":[]
+}
