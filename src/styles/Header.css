@@ -1,20 +1,18 @@
 /* Header.css */
-
-/* Base Header Styles */
 .header {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   padding: 1.5rem 0;
-  background-color: #ffffff;
-  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+  background-color: #5c5b5b;
+  box-shadow: 0 2px 15px rgba(89, 78, 78, 0.1);
   z-index: 1000;
 }
 
 /* Navbar Container */
 .navbar {
-  max-width: 1200px;
+  max-width: 1300px;
   margin: 0 auto;
   padding: 0 2rem;
 }
@@ -32,7 +30,7 @@
 /* Navigation Links */
 .navbar li a {
   position: relative;
-  color: #333333;
+  color: #f4eeee;
   font-size: 1rem;
   font-weight: 500;
   text-decoration: none;
@@ -43,7 +41,7 @@
 
 /* Hover Effect */
 .navbar li a:hover {
-  color: #4a6cf7;
+  color: #f5f5fa;
 }
 
 /* Underline Animation */
@@ -54,7 +52,7 @@
   left: 0;
   width: 0;
   height: 2px;
-  background-color: #4a6cf7;
+  background-color: #1b1b1c;
   transition: width 0.3s ease;
 }
 

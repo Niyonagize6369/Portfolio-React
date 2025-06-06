@@ -4,7 +4,7 @@
   justify-content: space-between;
   padding: 5rem 10%;
   min-height: 100vh;
-  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  background: linear-gradient(135deg, #dedee2 0%, #cbd8eb 100%);
 }
 
 .hero-content {
@@ -74,5 +74,10 @@
   .profile-img {
     width: 200px;
     height: 200px;
+  }
+  .cta-button{
+    background-color: gray;
+    
+    ;
   }
 }

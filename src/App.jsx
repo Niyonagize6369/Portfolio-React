@@ -1,5 +1,4 @@
-// import React from 'react'
-// import App from './App.jsx'
+
 import Hero from "./components/Hero.jsx";
 import Header from "./components/Header.jsx";
 import About from "./components/About.jsx";

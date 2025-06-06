@@ -1,5 +1,5 @@
 .about {
-  background-color: var(--white);
+  background-color:rgb(192, 190, 190);
   padding: 5rem 10%;
 }
 
@@ -35,7 +35,7 @@
 
 .skill-bar {
   height: 10px;
-  background-color: #e0e0e0;
+  background-color: #b4b3b3;
   border-radius: 5px;
   overflow: hidden;
 }

@@ -1,9 +1,9 @@
 .projects {
   padding: 5rem 10%;
-  background-color: var(--white);
+  background-color: rgb(205, 203, 203);
 }
 
-.projects h2 {
+.projects h2 .h2{
   text-align: center;
   margin-bottom: 3rem;
 }
@@ -15,15 +15,16 @@
 }
 
 .project-card {
-  background-color: var(--light-bg);
+  background-color:white;
   border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 5px 15px rgba(36, 36, 36, 0.1);
   transition: transform 0.3s ease;
 }
 
 .project-card:hover {
   transform: translateY(-10px);
+  background-color: rgb(113, 108, 108);
 }
 
 .project-card img {
