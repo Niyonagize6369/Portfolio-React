@@ -27,10 +27,10 @@
 .hero-content p {
   font-size: 1.2rem;
   margin-bottom: 2rem;
-  max-width: 600px;
+  max-width: 650px;
 }
 
-.profile-img {
+.profile-photo {
   width: 350px;
   height: 350px;
   border-radius: 50%;
@@ -60,7 +60,7 @@
     font-size: 1.5rem;
   }
 
-  .profile-img {
+  .profile-photo {
     width: 250px;
     height: 250px;
   }
@@ -71,13 +71,13 @@
     font-size: 2rem;
   }
 
-  .profile-img {
+  .profile-photo{
     width: 200px;
     height: 200px;
   }
-  .cta-button{
+  /* .cta-button{
     background-color: gray;
+    text-decoration: white
     
-    ;
-  }
+  } */
 }

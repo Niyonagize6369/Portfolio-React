@@ -3,17 +3,17 @@
     {
       "id": 1,
       "role": "Frontend Developer",
-      "company": "Tech Company",
-      "period": "2022 - Present",
+      "company": "Tele 10",
+      "period": "2018-2019",
       "description": ["Developed responsive web applications using React..."]
     }
   ],
   "education": [
     {
       "id": 1,
-      "degree": "Computer Science",
-      "institution": "University Name",
-      "year": "2021"
+      "degree": "Business information technology",
+      "institution": "University of Rwanda",
+      "year": "2024"
     }
   ]
 }

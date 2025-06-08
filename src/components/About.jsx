@@ -11,7 +11,7 @@ const About = () => {
           <h3>Who I Am</h3>
           <p>{personalInfo.about}</p>
           
-          <h3>My Interests</h3>
+          {/* <h3>My Interests</h3> */}
           <ul className="interests-list">
             {personalInfo?.interests?.map((interest, index) => (
               <li key={index}>{interest}</li>
@@ -22,7 +22,7 @@ const About = () => {
         <div className="skills-section">
           <h3>My Skills</h3>
           <div className="skills-container">
-            {personalInfo.skills.map((skill, index) => (
+            {personalInfo.skills?.map((skill, index) => (
               <div key={index} className="skill-item">
                 <div className="skill-info">
                   <span className="skill-name">{skill.name}</span>

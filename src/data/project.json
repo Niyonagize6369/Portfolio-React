@@ -6,8 +6,8 @@
       "description": "A fully responsive e-commerce platform with product filtering, cart functionality, and checkout process.",
       "technologies": ["React", "Redux", "Firebase", "Stripe API"],
       "liveUrl": "https://ecommerce-demo.com",
-      "githubUrl": "https://github.com/yourusername/ecommerce-store",
-      "image": "/images/ecommerce.jpg"
+      "githubUrl": "https://github.com/Niyonagize6369",
+      "image": "project1.jpg"
     },
     {
       "id": 2,
@@ -15,8 +15,8 @@
       "description": "A productivity application for managing tasks with drag-and-drop functionality and team collaboration features.",
       "technologies": ["React", "Node.js", "MongoDB", "Express"],
       "liveUrl": "https://taskmanager-demo.com",
-      "githubUrl": "https://github.com/yourusername/task-manager",
-      "image": "/images/taskapp.jpg"
+      "githubUrl": "https://github.com/Niyonagize6369",
+      "image": "project2.jpg"
     },
     {
       "id": 3,
@@ -24,8 +24,8 @@
       "description": "Real-time weather application with 5-day forecast using data from OpenWeather API.",
       "technologies": ["JavaScript", "CSS3", "REST API"],
       "liveUrl": "https://weather-demo.com",
-      "githubUrl": "https://github.com/yourusername/weather-app",
-      "image": "/images/weather.jpg"
+      "githubUrl": "https://github.com/Niyonagize6369",
+      "image": "project3.jpg"
     }
   ]
 }
