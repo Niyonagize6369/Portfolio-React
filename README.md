@@ -18,29 +18,21 @@ Professional portfolio website built with React.
 - React Router
 - React Icons
 
-## Design Inspiration
-
-[Pinterest Board](https://pinterest.com/your-board)
-[Dribbble Example](https://dribbble.com/example)
-
 ## Installation
 
 1. Clone the repository
 2. Install dependencies: `npm install`
-3. Run development server: `npm start`
+3. Run development server: `npm run dev`
 
 ## Live Demo
 
-[View Portfolio](https://yourusername.github.io/portfolio-react)
+[View Portfolio](https://github.com/Niyonagize6369/Portfolio-React)
 
-## Screenshots
-
-![Hero Section](/screenshots/hero.png)
-![Projects Section](/screenshots/projects.png)
+## deployment link is on vercel
+https://portfolio-react-git-main-rachels-projects-2f3cf954.vercel.app/
 
 ## Future Improvements
 
 - Add dark mode toggle
 - Implement project filtering
 - Add animations
-- Integrate blog section
