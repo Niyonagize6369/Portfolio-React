@@ -6,7 +6,7 @@
       "description": "An e-commerce store allows users to browse, search, and purchase products online with ease. It features product listings, detailed descriptions, and secure checkout options. Users can manage their carts and track orders seamlessly. The store provides a smooth shopping experience with responsive design and user-friendly navigation.",
       "technologies": ["React", "Redux", "Firebase", "Stripe API"],
       "liveUrl": "https://ecommerce-demo.com",
-      "githubUrl": "https://github.com/Niyonagize6369",
+      "githubUrl": "https://portfolio-react-three-ruby.vercel.app/",
       "image": "project1.jpg"
     },
     {
@@ -15,7 +15,7 @@
       "description": "A task management app helps users organize, prioritize, and track their daily, weekly, or long-term tasks efficiently. It allows creating, editing, and deleting tasks with ease. Users can filter tasks by duration or category for better focus. The app boosts productivity by keeping goals clear and manageable..",
       "technologies": ["React", "Node.js","JavaScript"],
       "liveUrl": "https://taskmanager-demo.com",
-      "githubUrl": "https://github.com/Niyonagize6369",
+      "githubUrl": "https://portfolio-react-three-ruby.vercel.app/",
       "image": "project2.jpg"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Weather Dashboard",
       "description": "A weather dashboard provides real-time weather updates and forecasts for selected locations. It displays key data like temperature, humidity, wind speed, and conditions. Users can search cities and view current and upcoming weather trends. The dashboard offers a clean, user-friendly interface for quick insights.",
       "technologies": ["JavaScript", "CSS3", "REST API"],
-      "liveUrl": "https://weather-demo.com",
+      "liveUrl": "https://portfolio-react-three-ruby.vercel.app/",
       "githubUrl": "https://github.com/Niyonagize6369",
       "image": "project3.jpg"
     }

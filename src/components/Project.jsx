@@ -5,10 +5,12 @@ import project2 from "../assets/project2.jpg";
 import project3 from "../assets/project3.jpg";
 
 
+
 const imageMap={
   "project1.jpg":project1,
   "project2.jpg":project2,
   "project3.jpg":project3,
+  
 
 }
 
